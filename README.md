@@ -40,7 +40,7 @@ A API é responsável pelo backend e o Flutter pela interface do usuário (**fro
 1. Abra o projeto Flutter no **Visual Studio Code** (ou sua IDE preferida).
 2. No terminal, execute:
 
-```bash
+## bash
 flutter pub get
 flutter run
 
